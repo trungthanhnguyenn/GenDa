@@ -1,6 +1,6 @@
 # GenDa
 
-GenDa is an open-source project for generating synthetic data and automating data processing, especially for AI and NLP applications in healthcare.
+GenDa is an open-source project for generating synthetic data and automating data processing, especially for AI and NLP applications.
 
 ## Features
 - Generate synthetic data using flexible AI pipelines
