@@ -22,6 +22,19 @@ GenDa is an open-source project for generating synthetic data and automating dat
    pip install -r requirements.txt
    ```
 
+3. Clone submodule llama.cpp and build cpu version
+   ```bash
+   git clone https://github.com/ggml-org/llama.cpp.git
+   cd llama.cpp
+   ```
+
+   - # CPU BUILD USING CMAKE #
+
+   ```bash
+   cmake -B build
+   cmake --build build --config Release   
+   ```
+
 ## Usage
 Example to generate synthetic data:
 ```bash

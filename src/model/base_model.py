@@ -1,4 +1,4 @@
-from typing import Dict, List
+from typing import Dict, List, Any
 from abc import ABC, abstractmethod
 
 
@@ -10,5 +10,8 @@ class BaseModel(ABC):
         self.model_name_or_path = model_name_or_path
 
     @abstractmethod
-    def generate(self, inputs: Dict):
+    def generate(self, inputs: Any, max_tokens: int) -> Any:
+        """"
+        Run model generate
+        """
         pass
