@@ -14,7 +14,7 @@ GenDa is an open-source project for generating synthetic data and automating dat
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/GenDa.git
+   git clone https://github.com/trungthanhnguyenn/GenDa.git
    cd GenDa
    ```
 2. Install dependencies:
@@ -57,6 +57,6 @@ GenDa/
 Contributions are welcome! Please create a pull request or open an issue for ideas or bug reports.
 
 ## Contact
-- Author: [Your Name]
-- Email: [Your Email]
-- Github: [Github Link]
+- Author: [trungthanhnguyenn]
+- Email: [sktkctman2@gmail.com]
+- Github: [github.com/trungthanhnguyenn]
